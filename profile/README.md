@@ -16,6 +16,11 @@ APP FRONT-END :iphone: : Soobeen Yim, Hanyang University, Dept.of Information Sy
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 
 ### UN Sustainable Development Goals
+<img width= "20%" src="https://user-images.githubusercontent.com/113010196/229691864-14b600bf-1f1a-4b10-910b-84089e49eb08.png"> <img width= "20%" src="https://user-images.githubusercontent.com/113010196/229692474-92db0ce0-f1e6-4d62-b09a-f6fe77144042.png">
+
+### How Cyclie Service was developed
+In Korea, a survey was conducted on 1,000 men and women more than age 18 to see if they did not comply with the standards for separate discharge of recycled waste and food waste. More than 90 percent said they did not keep it properly. For that reason, the answer was that there was little knowledge about recycling, so it was annoying, and it was unclear where to throw it away.
+
 
 
 
